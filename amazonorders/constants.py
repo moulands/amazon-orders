@@ -5,7 +5,7 @@ __license__ = "MIT"
 # General URL
 ##########################################################################
 
-BASE_URL = "https://www.amazon.com"
+BASE_URL = "https://www.amazon.ca"
 
 ##########################################################################
 # URLs for AmazonSession
